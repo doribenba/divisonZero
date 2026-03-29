@@ -1,0 +1,31 @@
+body {
+    max-width: 650px;
+    margin: auto;
+    padding: 2.5rem;
+    background-color: rgb(186, 19, 1);
+    padding-top: 7rem;
+}
+
+.title {
+    width: 100%;
+    mix-blend-mode: screen;
+}
+
+.text {
+    /* padding: 1rem; */
+    padding-top: 1.75rem;
+    border-top: 4px solid rgb(0, 0, 0);
+    text-align: justify;
+    color: white;
+    padding-bottom: 0.5rem;
+}
+
+.poster {
+    width: 100%;
+    border: 2.5px solid white;
+}
+
+p {
+    color: white;
+    padding-top: 0.4rem;
+}
