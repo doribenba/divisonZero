@@ -16,7 +16,7 @@ body {
     padding-top: 1.75rem;
     border-top: 4px solid rgb(0, 0, 0);
     text-align: justify;
-    color: white;
+    color: rgba(255, 255, 255, 0.481);
     padding-bottom: 0.5rem;
 }
 
@@ -28,4 +28,12 @@ body {
 p {
     color: white;
     padding-top: 0.4rem;
+}
+
+.text2 {
+    color: rgba(255, 255, 255, 0.437);
+}
+
+span {
+    color: rgb(255, 255, 255);
 }
